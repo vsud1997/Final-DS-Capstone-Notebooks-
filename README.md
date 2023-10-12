@@ -1,5 +1,5 @@
 # Final-DS-Capstone-Notebooks-
-This is the repository for the final capstne project for the IBM Data Science Certificate Program in Coursera.
+This is the repository for the final capstone project for the IBM Data Science Certificate Program in Coursera.
 
 ## Aim
 Through this capstone project, we aim to predict if the Falcon 9 stage I project
